@@ -2,6 +2,8 @@
 
 package com.example.firestorecrud
 
+
+// Import statements
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -16,6 +18,7 @@ import com.example.firestorecrud.nav.NavGraph
 import com.example.firestorecrud.ui.theme.FireStoreCRUDTheme
 import com.example.firestorecrud.util.SharedViewModel
 
+// Main Activity
 class MainActivity : ComponentActivity() {
 
     private lateinit var navController: NavHostController
