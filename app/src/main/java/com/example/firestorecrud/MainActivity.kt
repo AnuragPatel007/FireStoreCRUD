@@ -1,3 +1,5 @@
+//FireStore Simulation; All CRUD Operations are performed.
+
 package com.example.firestorecrud
 
 import android.os.Bundle
